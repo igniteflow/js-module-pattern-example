@@ -1,5 +1,5 @@
 /*
-    Credit - Nathan Staines
+    Credit - Nathan Staines https://github.com/nathanstaines 
     The structure is based on an article by Ben Cherry: http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth
 
     Attempting to use a similar approach to what has been used on the jQuery version of todoMVC: https://github.com/addyosmani/todomvc/blob/ca401ceaae34cb9a3309de33ce1174598ca2bf8e/architecture-examples/jquery/js/app.js
