@@ -1,0 +1,1 @@
+A very simple example of how to not get in a mess with our good friend Javascript
